@@ -33,8 +33,16 @@ matlab -nodisplay -nosplash -nodesktop -r "run('main.m');exit;"
 
 ## Figures
 
+### MATLAB
+
 <p align="left">
   <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/PCM-and-DM-modulators/main/Figures/1.jpg" width="800">
+</p>
+
+### Python
+
+<p align="left">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/PCM-and-DM-modulators/main/Figures/2.jpg" width="800">
 </p>
 
 
