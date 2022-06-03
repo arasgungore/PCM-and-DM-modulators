@@ -1,6 +1,6 @@
 # PCM-and-DM-modulators
 
-A MATLAB project which implements PCM (pulse-code modulation) and DM (delta modulation).
+A Python/MATLAB project which implements PCM (pulse-code modulation) and DM (delta modulation).
 
 This project was assigned for the Communication Engineering (EE 374) course in the Spring 2022 semester.
 
@@ -23,27 +23,29 @@ Consider the message signal m(t) = −cos(200πt) + sin(50πt).
 
 
 
+## Figures
+
+### Delta Modulation
+
+#### Python
+
+<p align="left">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/PCM-and-DM-modulators/main/Figures/python_DM.jpg" width="800">
+</p>
+
+#### MATLAB
+
+<p align="left">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/PCM-and-DM-modulators/main/Figures/matlab_DM.jpg" width="800">
+</p>
+
+
+
 ## Run on Terminal
 
 ```sh
 matlab -nodisplay -nosplash -nodesktop -r "run('main.m');exit;"
 ```
-
-
-
-## Figures
-
-### MATLAB
-
-<p align="left">
-  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/PCM-and-DM-modulators/main/Figures/1.jpg" width="800">
-</p>
-
-### Python
-
-<p align="left">
-  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/PCM-and-DM-modulators/main/Figures/2.jpg" width="800">
-</p>
 
 
 
