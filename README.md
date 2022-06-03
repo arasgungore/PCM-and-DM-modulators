@@ -34,7 +34,7 @@ matlab -nodisplay -nosplash -nodesktop -r "run('main.m');exit;"
 ## Figures
 
 <p align="left">
-  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/PCM-and-DM-modulators/Figures/1.jpg" width="800">
+  <img alt="Figure" src="https://raw.githubusercontent.com/arasgungore/PCM-and-DM-modulators/main/Figures/1.jpg" width="800">
 </p>
 
 
