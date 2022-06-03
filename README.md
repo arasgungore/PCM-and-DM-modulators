@@ -2,7 +2,7 @@
 
 A Python/MATLAB project which implements pulse-code modulation (PCM) and delta modulation (DM).
 
-This project was assigned for the Communication Engineering (EE 374) course in the Spring 2022 semester.
+This project was assigned for the Communication Engineering (EE 374) course in the Spring 2022 semester. For reference, check out the instructor of this course, [Ali E. Pusane](https://github.com/pusane)'s [implementation of delta modulation (DM) in Python](https://github.com/pusane/DM_in_Python).
 
 
 
