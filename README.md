@@ -1,6 +1,6 @@
 # PCM-and-DM-modulators
 
-A Python/MATLAB project which implements PCM (pulse-code modulation) and DM (delta modulation).
+A Python/MATLAB project which implements pulse-code modulation (PCM) and delta modulation (DM).
 
 This project was assigned for the Communication Engineering (EE 374) course in the Spring 2022 semester.
 
@@ -25,7 +25,7 @@ Consider the message signal m(t) = −cos(200πt) + sin(50πt).
 
 ## Figures
 
-### Delta Modulation
+### Delta Modulation (DM)
 
 #### Python
 
